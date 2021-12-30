@@ -99,6 +99,32 @@
     "date": "Дата:",
     "info-about-date": "Додано:"
   },
+  "add-payment": {
+    "title": "Додати документ про оплату",
+    "order": "Замовлення №",
+    "description": "Додайте підтвердження про оплату одним або кількома з доступних способів",
+    "payment-date": "Дата оплати",
+    "payment-amount": "Сума оплати",
+    "amount-placeholder": "0.00 грн",
+    "date-placeholder": "ДД/ММ/РР",
+    "payment-id": "ID платежу",
+    "id-placeholder": "№1234567890",
+    "link-to-bill": "Посилання на електронний чек",
+    "link-placeholder": "Link to external source",
+    "label-for-photo": "Фотографія або скріншот чека",
+    "requirement": "Ви можете завантажити зображення у форматі PNG чи JPG розміром до 10MБ",
+    "drag-photo": "Перетягніть зображення сюди або",
+    "drag-photo-link": " завантажте з пристрою",
+    "drag-other-photo-link": "Завантажити інше",
+    "pdf-file": "PDF-файл",
+    "upload-pdf": "Завантажити PDF",
+    "btn": {
+      "back": "Назад",
+      "confirm": "Підтвердити оплату"
+    },
+    "date": "Дaта",
+    "added": "Додано"
+  },
   "order-edit": {
     "order-status": {
       "formed": "Сформовано",
@@ -424,10 +450,16 @@
     "messages": "Повідомлення"
   },
   "ubs-tariffs": {
-    "active-header": "Активовані локації",
-    "disabled-header": "Деактивовані локації",
-    "courier-header": "Кур'єри",
+    "tariffs": "Тарифи",
+    "region": "Область",
+    "locations": "Населений пункт/Район",
+    "courier": "Кур'єр",
     "services": "Сервіси",
+    "button-filter": "Показати тариф",
+    "city": "Місто",
+    "state": "Стан",
+    "delete-button": "Видалити",
+    "restore-button": "Відновити",
     "name_of_the_service": "Найменування послуги",
     "capacity": "Об’єм",
     "service_description": "Опис послуги",
