@@ -205,6 +205,15 @@ THE SOFTWARE.
 @ng-select/ng-select
 MIT
 
+@ngrx/effects
+MIT
+
+@ngrx/router-store
+MIT
+
+@ngrx/store
+MIT
+
 @ngx-translate/core
 MIT
 
