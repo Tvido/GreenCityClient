@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644218942596,
+  "timestamp": 1644219210474,
   "index": "/GreenCityClient/index.html",
   "assetGroups": [
     {
@@ -342,7 +342,7 @@
     "/GreenCityClient/assets/i18n/ubs-admin/ua.json": "a7133c736a51f774c56d671ce9705713317937e5",
     "/GreenCityClient/assets/i18n/ubs-user/en.json": "390e89e711e129cfa1b7be0fbd9d0d4c9c432995",
     "/GreenCityClient/assets/i18n/ubs-user/ua.json": "b57a7f00a70e34f3e6741686d490dcb5071a4c31",
-    "/GreenCityClient/assets/i18n/ubs/en.json": "286c93c05cc99d03ac13a82e741bc54560cf0659",
+    "/GreenCityClient/assets/i18n/ubs/en.json": "ca1e2c689b53ea4cd1a0d59fc46c3085fd07df92",
     "/GreenCityClient/assets/i18n/ubs/ru.json": "3e7751b7b5f18b5d919b4046c6f7aaa1a8d899bf",
     "/GreenCityClient/assets/i18n/ubs/ua.json": "d7245eb12063893873f163dcb1cc75f124080676",
     "/GreenCityClient/assets/icons/icon-128x128.png": "ddb2fa54a66873ddf77e8a88cea0cdf18f57efb5",
