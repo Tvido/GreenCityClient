@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644826680294,
+  "timestamp": 1644837725953,
   "index": "/GreenCityClient/index.html",
   "assetGroups": [
     {
@@ -32,8 +32,8 @@
         "/GreenCityClient/common-es5.9e750b0f1a58ed4770e1.js",
         "/GreenCityClient/favicon.ico",
         "/GreenCityClient/index.html",
-        "/GreenCityClient/main-es2015.dd7063ea6c4c9f5d1747.js",
-        "/GreenCityClient/main-es5.dd7063ea6c4c9f5d1747.js",
+        "/GreenCityClient/main-es2015.d8d51cb23430b54c7eb9.js",
+        "/GreenCityClient/main-es5.d8d51cb23430b54c7eb9.js",
         "/GreenCityClient/manifest.webmanifest",
         "/GreenCityClient/polyfills-es2015.8f3d8bfcfdf1394a7c3b.js",
         "/GreenCityClient/polyfills-es5.b1a5e91da78d18b5ee60.js",
@@ -574,9 +574,9 @@
     "/GreenCityClient/duration-thumb-label.f22ec00ed20470f557a2.png": "d17242fc4e4fdf7ba50fe20c2864a8ace70df8b0",
     "/GreenCityClient/favicon.ico": "3e39e8361b6c24db33820d48aae7f83af1384e13",
     "/GreenCityClient/first_rectangle.fe8666819778b8bf6ea3.png": "912864ec70ce69a51a1cc3a5de49b11781b43d0a",
-    "/GreenCityClient/index.html": "ab5253991385501002af3dd86f7c52e3065193c0",
-    "/GreenCityClient/main-es2015.dd7063ea6c4c9f5d1747.js": "44919cb1f211744eb1f8105a2f59be6a8787f26b",
-    "/GreenCityClient/main-es5.dd7063ea6c4c9f5d1747.js": "260f8e3bbb72d81715bd6df6ed4cd977b2f6dc4b",
+    "/GreenCityClient/index.html": "33df1f2aa5f6dcc91fcd41e662f1f18c6dc83512",
+    "/GreenCityClient/main-es2015.d8d51cb23430b54c7eb9.js": "68b0f8fb253e795d449639b5a46b1787ebb7ebab",
+    "/GreenCityClient/main-es5.d8d51cb23430b54c7eb9.js": "5b8830dcdb2061c88ac7338553448322ede99ccf",
     "/GreenCityClient/manifest.webmanifest": "d27723d7a93eb791f1bfcc21a1f3cdc7d6cb264e",
     "/GreenCityClient/polyfills-es2015.8f3d8bfcfdf1394a7c3b.js": "0f4dac3bfa7703db68f3077079027c9a5b099aac",
     "/GreenCityClient/polyfills-es5.b1a5e91da78d18b5ee60.js": "dcaeebb1799a53e9ecab20accdbfae4b4f502785",
